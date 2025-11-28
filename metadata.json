@@ -1,0 +1,5 @@
+{
+  "name": "TrendAI - Analisador de Tendências",
+  "description": "Aplicativo de Deep Learning para análise de tendências, regressão linear, cálculo de derivada segunda e projeções futuras a partir de dados CSV ou JSON.",
+  "requestFramePermissions": []
+}
